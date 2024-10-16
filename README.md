@@ -1,4 +1,4 @@
-<h2 align="center">Olá, me chamo Antony Rafael!</h2>
+<h2 align="center">Olá, me chamo Antony Rafael! 💻</h2>
 
 ###
 
@@ -50,7 +50,7 @@
   <a href="https://www.linkedin.com/in/rafaelsouzapinto/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="35" alt="linkedin logo"  />
   </a>
-  <a href="antonyrafaelsouzaa@gmail.com" target="_blank">
+  <a href="mailto:antonyrafaelsouzaa@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="35" alt="gmail logo"  />
   </a>
 </div>
