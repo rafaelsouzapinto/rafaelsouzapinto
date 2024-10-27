@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Web developer apaixonado por tecnologia e programação. Sempre trabalhando na resolução de problemas cotidianos por meio da tecnologia e em evoluir cada dia mais! Seja muito bem vindo ao meu repositório!</p>
+<p align="left">Web developer apaixonado por tecnologia e programação. Sempre trabalhando na resolução de problemas cotidianos por meio da programação e em evoluir cada dia mais! Seja muito bem vindo ao meu repositório!</p>
 
 ###
 
