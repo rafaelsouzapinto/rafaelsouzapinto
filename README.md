@@ -1,8 +1,8 @@
-<h2 align="center">Olá, me chamo Antony Rafael! 💻</h2>
+<h3 align="center">Olá, me chamo Antony Rafael!</h3>
 
 ###
 
-<p align="left">Web developer apaixonado por tecnologia e programação. Sempre trabalhando na resolução de problemas cotidianos por meio da programação e em evoluir cada dia mais! Seja muito bem vindo ao meu repositório!</p>
+<p align="left">Web developer apaixonado por tecnologia e programação. Sempre trabalhando na resolução de problemas cotidianos por meio da tecnologia e focado em evoluir cada dia mais! Seja muito bem vindo ao meu repositório!</p>
 
 ###
 
@@ -15,7 +15,7 @@
 
 ###
 
-<h3 align="center">Tech Stack:</h3>
+<h3 align="center">Tecnologias:</h3>
 
 ###
 
@@ -24,25 +24,30 @@
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="35" alt="spring logo"  />
   <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="35" alt="docker logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo"  />
+  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo"  />
-  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo"  />
-  <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
-  <img width="25" />
 </div>
 
 ###
 
-<h3 align="center">Contact:</h3>
+<h3 align="center">Meios para contato:</h3>
 
 ###
 
@@ -50,11 +55,9 @@
   <a href="https://www.linkedin.com/in/rafaelsouzapinto/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="35" alt="linkedin logo"  />
   </a>
-  <a href="mailto:antonyrafaelsouzaa@gmail.com" target="_blank">
+  <a href="antonyrafaelsouzaa@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="35" alt="gmail logo"  />
   </a>
 </div>
-
-###
 
 ###
