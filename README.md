@@ -13,6 +13,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelsouzapinto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
+---
+
 ###
 
 <h3 align="center">Tecnologias:</h3>
@@ -45,6 +47,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
 </div>
 
+---
+
 ###
 
 <h3 align="center">Certificações:</h3>
@@ -60,6 +64,7 @@ Para conferir todas as minhas badges, clique [aqui](https://www.credly.com/users
 [![Build a Secure Google Cloud Network Skill Badge](https://images.credly.com/size/110x110/images/e1131ae3-4a52-4af1-9801-b7853767cf79/image.png)](https://www.credly.com/earner/earned/badge/d191acb6-ab9b-43f4-8a0a-e82803db4189 "Build a Secure Google Cloud Network Skill Badge") 
 <!--END_SECTION:badges-->
 
+---
 
 <h3 align="center">Meios para contato:</h3>
 
