@@ -47,6 +47,20 @@
 
 ###
 
+<h3 align="center">Certificações:</h3>
+
+###
+Para conferir todas as minhas badges, clique [aqui](https://www.credly.com/users/antony-rafael-souza-pinto).
+
+<!--START_SECTION:badges-->
+[![Google Cloud Computing Foundations Certificate](https://images.credly.com/size/110x110/images/4dda8ae4-99ee-476c-bca3-6f0adbab42fe/image.png)](https://www.credly.com/earner/earned/badge/c8a66d77-de95-4930-80ef-932ce837474b "Google Cloud Computing Foundations Certificate") 
+[![Prepare Data for ML APIs on Google Cloud Skill Badge](https://images.credly.com/size/110x110/images/68756311-9319-4eeb-a2b7-76defc8dd8a2/image.png)](https://www.credly.com/earner/earned/badge/782a6b57-c5ef-4ea1-83e0-4751d20a904d "Prepare Data for ML APIs on Google Cloud Skill Badge")
+[![Implement Load Balancing on Compute Engine Skill Badge](https://images.credly.com/size/110x110/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/image.png)](https://www.credly.com/earner/earned/badge/54b63d21-8908-4149-99fe-86d7a6b756a1 "Implement Load Balancing on Compute Engine Skill Badge") 
+[![Set Up an App Dev Environment on Google Cloud Skill Badge](https://images.credly.com/size/110x110/images/42326d44-14ff-4eda-b9c5-7d8f12919253/image.png)](https://www.credly.com/earner/earned/badge/b352aff5-0443-46f6-9575-20cc54c5138e "Set Up an App Dev Environment on Google Cloud Skill Badge") 
+[![Build a Secure Google Cloud Network Skill Badge](https://images.credly.com/size/110x110/images/e1131ae3-4a52-4af1-9801-b7853767cf79/image.png)](https://www.credly.com/earner/earned/badge/d191acb6-ab9b-43f4-8a0a-e82803db4189 "Build a Secure Google Cloud Network Skill Badge") 
+<!--END_SECTION:badges-->
+
+
 <h3 align="center">Meios para contato:</h3>
 
 ###
